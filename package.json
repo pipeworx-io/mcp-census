@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-census",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Census MCP — U.S. Census Bureau housing-relevant APIs.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "census",
     "gatewaySlug": "census",
-    "sourceHash": "v1-df35c7e5e6a6b76576d4db4087f986854171f7eb135dd0ae219f1bd39ea1a679",
-    "sourceCommit": "4277282d72f9bf55e548b3799aaf737baf22152f"
+    "sourceHash": "v1-bf8a86cd16c88c95d28c007922152ab19e76a072b850f06dad804fbf5be9d29e",
+    "sourceCommit": "547a3983b42dacf4389ca474860b0a1dee8e6053"
   }
 }
